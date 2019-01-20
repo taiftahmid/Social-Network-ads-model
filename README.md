@@ -1,17 +1,26 @@
-# Social-Network-ads-model
+# Social Network ads model
 A logistic Regression Model for predicting the key audiences to show ads in a social network. 
 
-The dataset has the following features: 
-1. User ID
+The dataset has the following features:
+- User ID
 
-2. Gender
+- Gender
+- Age
 
-3.Age
+- Estimated Salary
 
-4.Estimated Salary
-
-5.Purchased 
+- Purchased 
 
 Using these features, the model predicts which audiences the ads will be relevant to. 
 
+Results and Discussion:
 
+![alt text](https://github.com/taiftahmid/Social-Network-ads-model/blob/master/social-network-prediction.png)
+
+The green portion represents the users who bought the product viewed in the ads and the red portion represents the users who didn't. This model has learned the optimum line that seperates users who are prone to buying the product. 
+
+For any new user, the model will simply check the position of the new user in the graph and predict whether the user is a key customer or not. 
+
+The following figure shows the predictions made by the model from new users. (Test Set)
+
+![alt text](https://github.com/taiftahmid/Social-Network-ads-model/blob/master/social-network-prediction%20testset.png)
