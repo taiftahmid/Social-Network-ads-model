@@ -13,7 +13,7 @@ The dataset has the following features:
 
 Using these features, the model predicts which audiences the ads will be relevant to. 
 
-Results and Discussion:
+# Results and Discussion:
 
 ![alt text](https://github.com/taiftahmid/Social-Network-ads-model/blob/master/social-network-prediction.png)
 
