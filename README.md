@@ -24,3 +24,5 @@ For any new user, the model will simply check the position of the new user in th
 The following figure shows the predictions made by the model from new users. (Test Set)
 
 ![alt text](https://github.com/taiftahmid/Social-Network-ads-model/blob/master/social-network-prediction%20testset.png)
+
+The accuracy of the model was 90%
