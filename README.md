@@ -13,6 +13,8 @@ The dataset has the following features:
 
 Using these features, the model predicts which audiences the ads will be relevant to. 
 
+The feature dimensionality reduction was also done using Kernel PCA to increase the accuracy of the model
+
 # Results and Discussion:
 
 ![alt text](https://github.com/taiftahmid/Social-Network-ads-model/blob/master/social-network-prediction.png)
